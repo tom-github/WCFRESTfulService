@@ -1,0 +1,5 @@
+E:\Desenvolvimento\GitHub\WCFRESTfulService\WCFRESTfulService\bin\WCFRESTfulService.dll.config
+E:\Desenvolvimento\GitHub\WCFRESTfulService\WCFRESTfulService\bin\WCFRESTfulService.dll
+E:\Desenvolvimento\GitHub\WCFRESTfulService\WCFRESTfulService\bin\WCFRESTfulService.pdb
+E:\Desenvolvimento\GitHub\WCFRESTfulService\WCFRESTfulService\obj\Debug\WCFRESTfulService.dll
+E:\Desenvolvimento\GitHub\WCFRESTfulService\WCFRESTfulService\obj\Debug\WCFRESTfulService.pdb
